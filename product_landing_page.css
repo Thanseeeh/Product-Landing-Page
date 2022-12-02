@@ -1,0 +1,42 @@
+body {
+    background: white;
+    padding: 0% 5%;
+}
+.store-name {
+    width: 50%;
+    height: 70px;
+    float: left;
+}
+.store-name h1{
+    letter-spacing: -1.5px;
+    font-weight: lighter;
+    color: #3b3b3b;
+    display: inline;
+}
+.icons {
+    width: 250px;
+    text-align: left;
+    font-size: 20px;
+}
+.icons i{
+    color: 3b3b3b#;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.nav-link {
+    width: 50%;
+    height: 70px;
+    float: left;
+    display: inline;
+    columns: 50px 3;
+}
+.nav-link a{
+    text-decoration: none;
+    color: black;
+    float: left;
+    padding-top: 25px;
+    margin-left: 150px;
+    margin-right: -80px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
